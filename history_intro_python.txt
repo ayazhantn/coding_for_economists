@@ -1,0 +1,25 @@
+    1  git status
+    2  git remote add origin https://github.com/ayazhantn/coding_for_economists.git
+    3  git branch -M main
+    4  git push -u origin main
+    5  git add main.py
+    6  git commit -m "Added main.py"
+    7  git config --global user.email "ayazhan.143@gmail.com"
+    8  git config --global user.name "Ayazhan"
+    9  git push -u origin main
+   10  git config credential.username "ayazhantn"
+   11  git push -u origin main
+   12  git push -u origin main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
+   13  git push -u origin main
+   14  git commit -m "Added main.py"
+   15  git add main.py
+   16  git commit -m "Added main.py"
+   17  git status
+   18  git push -u origin main
+   19  python
+   20  python
+   21  git add main.py
+   22  git commit -m 'Coded a solution to string slicing exercise'
+   23  git push -u origin main
+   24  history
+   25  history > history_intro_python.txt
