@@ -1,0 +1,8 @@
+    1  mv main.py 07_python_loops.py
+    2  git add 07_python_loops.py 
+    3  git commit -m "Added script introduction for loops"
+    4  git config --global user.email "ayazhan.143@gmail.com"
+    5  git config --global user.name "Ayazhan"
+    6  git push
+    7  git status
+    8  history > 02_history_loops_23jan.txt
