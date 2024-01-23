@@ -60,3 +60,10 @@ print(True==1) #check if True and 1 are in fact equiavalent
 
 print(2==2 and 3==3)
 print(2==3 or 3==4)
+
+#Testing for inequality
+print(2!=3) #True
+
+#Testing for less than/more than
+print(2<3) #Trues
+print(2>3) #False
