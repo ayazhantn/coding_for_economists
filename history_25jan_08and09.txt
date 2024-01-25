@@ -1,0 +1,20 @@
+    1  touch main.py
+    2  python
+    3  git config --global user.email "ayazhan.143@gmail.com"
+    4  git config --global user.name "ayazhantn"
+    5  git config credential.username "ayazhantn"
+    6  git status
+    7  mv main.py 08_python_functions.py
+    8  git add 08_python_functions.py 
+    9  git add 06_python_conditionals.py 
+   10  git commit -m "Modified 06_python_conditionals and added code for functions"
+   11  add push
+   12  git push
+   13  touch main.py
+   14  wd
+   15  pwd
+   16  mv main.py 09_readingtext_python.py
+   17  git add 09_readingtext_python.py 
+   18  git commit -m "Added code for reading text files"
+   19  git push
+   20  history > history_25jan_08and09.txt
