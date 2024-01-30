@@ -1,0 +1,18 @@
+    1  git status
+    2  touch main.py
+    3  touch main1.py
+    4  git config --global user.email "ayazhan.143@gmail.com"
+    5  git config --global user.name "Ayazhan"
+    6  git status
+    7  mv main.py 10_python_exercise.py
+    8  git add 10_python_exercise.py
+    9  git commit -m "Added exercise and solution code"
+   10  git push
+   11  touch main.py
+   12  python
+   13  mv main.py 11_python_pandas_series.py
+   14  git add 11_python_pandas_series.py 
+   15  git commit -m "Added code to introduce pd.Series"
+   16  git push
+   17  touch main.py
+   18  history > history30jan.txt
