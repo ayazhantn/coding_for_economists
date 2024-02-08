@@ -1,0 +1,16 @@
+    4  cd
+    5  git clone https://github.com/ayazhantn/coding_for_economists.git
+    6  git clone https://github.com/ayazhantn/coding_for_economists.git
+    7  ды
+    8  ls
+    9  cd .\coding_for_economists
+   10  git status
+   11  ls
+   12  cd coding_for_economists
+   13  git add 0_download_data.do
+   14  git add 1_clean_data.do
+   15  git commit -m "Added do files 8 feb"
+   16  git config --global user.email "ayazhan.143@gmail.com"
+   17  git config --global user.name "ayazhantn"
+   18  git config credential.username "ayazhantn"
+   19  git push
